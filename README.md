@@ -17,7 +17,7 @@ task 1
  <h3> <b>Website Link:<b><a href="">here<a></h3>
   <h3> <b>Youtube Link:<b><a href="">here<a></h3>
    <h3> <b>Linkedin Post:<b><a href="">here<a></h3><br>
- <a href="https://charitywebsitedemogrip2021.000webhostapp.com/"><img src="screenshot.png"> </a><br><br>
+ <a href=""><img src="screenshot/home.png"> </a><br><br>
     
 <h3>FOLLOW:</h3>
 <li><a href="">LinkedIn</a>
