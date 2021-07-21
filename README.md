@@ -12,16 +12,14 @@ task 1
 
  <br>
  <br>
- I hosted this webswite in 000webhost<br>
  
- <h3> <b>Website Link:<b><a href="">here<a></h3>
-  <h3> <b>Youtube Link:<b><a href="">here<a></h3>
-   <h3> <b>Linkedin Post:<b><a href="">here<a></h3><br>
- <a href=""><img src="screenshot/home.png"> </a><br><br>
+ 
+  <h3> <b>Youtube Link:<b><a href="https://www.youtube.com/watch?v=st_MvFG-AHM">here<a></h3>
+   <h3> <b>Linkedin Post:<b><a href="https://www.linkedin.com/posts/mrithula-v-aa01621b5_task1-thesparksfoundation-gripjune21-activity-6823403531517599745-wGSY/">here<a></h3><br>
+ <img src="screenshot/home.png"> <br><br>
     
 <h3>FOLLOW:</h3>
-<li><a href="">LinkedIn</a>
+<li><a href="https://www.linkedin.com/in/mrithula-v-aa01621b5/">LinkedIn</a>
 <li><a href="">Instagram</a>
 <li><a
-href=
-"">YouTube</a>
+href="">YouTube</a>
